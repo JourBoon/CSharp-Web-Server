@@ -1,0 +1,14 @@
+C:\Users\Tom\Desktop\WebServer\obj\Debug\net7.0\WebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\Desktop\WebServer\obj\Debug\net7.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\WebServer\obj\Debug\net7.0\WebServer.AssemblyInfo.cs
+C:\Users\Tom\Desktop\WebServer\obj\Debug\net7.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\WebServer\bin\Debug\net7.0\WebServer.exe
+C:\Users\Tom\Desktop\WebServer\bin\Debug\net7.0\WebServer.deps.json
+C:\Users\Tom\Desktop\WebServer\bin\Debug\net7.0\WebServer.runtimeconfig.json
+C:\Users\Tom\Desktop\WebServer\bin\Debug\net7.0\WebServer.dll
+C:\Users\Tom\Desktop\WebServer\bin\Debug\net7.0\WebServer.pdb
+C:\Users\Tom\Desktop\WebServer\obj\Debug\net7.0\WebServer.dll
+C:\Users\Tom\Desktop\WebServer\obj\Debug\net7.0\refint\WebServer.dll
+C:\Users\Tom\Desktop\WebServer\obj\Debug\net7.0\WebServer.pdb
+C:\Users\Tom\Desktop\WebServer\obj\Debug\net7.0\WebServer.genruntimeconfig.cache
+C:\Users\Tom\Desktop\WebServer\obj\Debug\net7.0\ref\WebServer.dll
